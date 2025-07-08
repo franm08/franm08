@@ -10,14 +10,6 @@
 
 ---
 
-## 🚀 What I’m Working On
-
-- 🤖 **SPEAR Robotics** – Making autonomous rovers smarter
-- 🛡 **GateAI** – Gesture-based security systems
-- 🩺 **Biosignal Monitoring** – Real-time alcohol withdrawal tracking
-
----
-
 ## 🛠 My Toolbox
 
 <div align="center">
