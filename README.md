@@ -24,24 +24,6 @@
 
 ---
 
-## 🌱 Learning & Leveling Up
-
-- Power BI & advanced SQL
-- System design and architecture
-- Building tech that makes an impact
-
----
-
-## 🎯 What I’m About
-
-> *“Stay curious. Stay uncomfortable.”*
-
-- Staying adaptable and open-minded
-- Making processes simpler and smarter
-- Asking the right questions
-
----
-
 ## ⚡ Fun Facts
 
 - 🏀 I coach basketball
