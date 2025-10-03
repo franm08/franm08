@@ -5,8 +5,6 @@
 ## 👋 About Me
 
 🎓 Fourth-year Computing Science + Math student @ University of Alberta  
-💡 Systems thinker, builder, and lifelong learner  
-🔧 Turning complex problems into clean solutions  
 
 ---
 
@@ -27,7 +25,6 @@
 ## ⚡ Fun Facts
 
 - 🏀 I coach basketball
-- 🎹 Piano helps me unwind
 - 🛠 Big fan of weekend electronics projects
 
 ---
@@ -36,7 +33,6 @@
 
 - 🎓 Wrapping up my final year at U of A
 - 🛠 Working on new projects in robotics & analytics
-- 💬 Learning more about system design
 
 ---
 
